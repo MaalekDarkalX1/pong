@@ -32,4 +32,9 @@ Choose single player or multiplayer, pick your AI difficulty, and enjoy fast, co
 ---
 
 ## ⚙️ How to Run
-download the zip file from the realeases 
+download the zip file from the realeases or use: 
+
+```
+pip install mdpong
+python -m pong
+```
