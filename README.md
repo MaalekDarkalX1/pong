@@ -3,6 +3,8 @@
 A fun modern take on the classic **Pong** game made with Python’s `turtle` graphics.  
 Choose single player or multiplayer, pick your AI difficulty, and enjoy fast, colorful gameplay!
 
+https://github.com/user-attachments/assets/4c456c8e-bd4c-4c37-a5b2-e1dee0cd4a72
+
 ---
 
 ## 🎮 Features
@@ -28,6 +30,8 @@ Choose single player or multiplayer, pick your AI difficulty, and enjoy fast, co
 - 2 → Multiplayer  
 - R → Replay  
 - Q → Main Menu  
+
+
 
 ---
 
