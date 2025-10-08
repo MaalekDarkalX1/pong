@@ -1,4 +1,4 @@
-# 🏓 Pong by Maalek Darkal
+# 🏓 mdpong by Maalek Darkal
 
 A fun modern take on the classic **Pong** game made with Python’s `turtle` graphics.  
 Choose single player or multiplayer, pick your AI difficulty, and enjoy fast, colorful gameplay!
