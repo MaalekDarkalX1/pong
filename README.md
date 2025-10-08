@@ -36,5 +36,5 @@ download the zip file from the realeases or use:
 
 ```
 pip install mdpong
-python -m pong
+python -m mdpong
 ```
